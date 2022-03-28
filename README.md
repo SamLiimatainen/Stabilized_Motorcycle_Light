@@ -1,4 +1,4 @@
-section describing the final prototype <br />
+
 ![](Documentation/Fig/GIF-NoStabilization.gif)
 ![](Documentation/Fig/GIF-Stabilization.gif)
 ![](Documentation/Fig/DataForGraph.png)
